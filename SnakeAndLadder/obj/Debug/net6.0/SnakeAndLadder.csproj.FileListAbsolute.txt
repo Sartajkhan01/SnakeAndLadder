@@ -1,0 +1,5 @@
+C:\Users\Sartaj khan\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.csproj.CoreCompileInputs.cache
