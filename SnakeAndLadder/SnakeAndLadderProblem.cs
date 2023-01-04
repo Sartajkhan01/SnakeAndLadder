@@ -42,7 +42,7 @@ namespace SnakeAndLadder
                         }
                         break;
                 }
-
+                Console.WriteLine(this.position);
             }
         }
     }
